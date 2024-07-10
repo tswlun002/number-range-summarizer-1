@@ -9,3 +9,7 @@ Implement code which has the ability to produce a comma delimited list of number
 - Must be in GitHub.
 - Must implement provided interface
 - Must have valid unit tests
+
+## Run code
+- Created ci/cd workflow to run tests
+- Go to action, run the job manualy for testing.
