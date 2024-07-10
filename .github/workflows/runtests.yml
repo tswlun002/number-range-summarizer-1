@@ -1,4 +1,4 @@
-name: Number range summarizer server CI/CD
+name: Run Tests CI/CD 
 
 on:
   workflow_dispatch:
