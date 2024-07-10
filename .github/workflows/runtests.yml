@@ -21,4 +21,4 @@ jobs:
           distribution: 'temurin'
           cache: maven
       - name: run all tests
-        run: mvn test --file ./porm.xml
+        run: mvn test pom.xml
